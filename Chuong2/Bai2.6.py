@@ -1,0 +1,8 @@
+hoten=str(input('Ho ten: '))
+ngay=int(input('So ngay cong: '))
+dongia=int(input('Don gia ngay cong: '))
+heso=float(input('He so phu cap: '))
+tamung=int(input('Tam ung: '))
+luong=float(dongia*ngay*heso)
+thuclinh=float(luong-tamung)
+print('Nhan vien '+hoten+',Co tien luong='+str(luong)+',Tam ung='+str(tamung)+' va Thuc linh='+str(thuclinh))
