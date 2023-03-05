@@ -1,3 +1,3 @@
-a=int(input('a='))
-b=int(input('b='))
-print('a+b=',a+b)
+myAge=4
+print('You will be '+str(int(myAge)+1)+' in a year.')
+# print('You will be '+ str(int('4')+1)+' in a year')
