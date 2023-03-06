@@ -1,3 +1,3 @@
-hoten=(input('ho va ten:'))
-tuoi=(input('tuoi:'))
-print("Chao ban " + hoten +",tuoi:" + tuoi)
+hoten=str(input('ho va ten:'))
+tuoi=int(input('tuoi:'))
+print("Chao ban " + hoten +",tuoi:" + str(tuoi))
