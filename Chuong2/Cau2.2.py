@@ -1,0 +1,5 @@
+gia=int(input('Nhap Gia niem yet: '))
+chietkhau=int(input('Nhap Chiet khau: '))
+VAT=((gia-chietkhau)*0.01)
+giaban=float((gia-chietkhau+VAT))
+print('Gia ban: '+str(giaban))
