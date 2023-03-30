@@ -15,5 +15,5 @@ while True:
         d=a/b
         print(a,c,b,'=',d,sep='')
     c=input('Tiep tuc:')
-    if c=='t' or c=='T':
-        break
+    # if c=='t' or c=='T':
+    #     break

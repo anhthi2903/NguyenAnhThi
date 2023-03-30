@@ -10,9 +10,3 @@ while n>0:
     d=d+1
     print(s,'co',d,'chu so')
 print()
-#cach khac 2
-n=int(input())
-if n!=0:
-    dem=0
-    while n>0:
-        n=int
