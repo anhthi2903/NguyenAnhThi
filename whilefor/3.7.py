@@ -1,4 +1,4 @@
-# #while
+# # #while
 n=int(input())
 while n>=0:
     i=1
